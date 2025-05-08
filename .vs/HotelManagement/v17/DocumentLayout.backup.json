@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|C:\\Users\\Expert\\source\\repos\\HotelManagement\\hotelmanagement\\page8.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\page8.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|C:\\Users\\Expert\\source\\repos\\HotelManagement\\hotelmanagement\\page8.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\page8.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|C:\\Users\\Expert\\source\\repos\\HotelManagement\\hotelmanagement\\page7.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\page7.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|C:\\Users\\Expert\\source\\repos\\HotelManagement\\hotelmanagement\\page7.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\page7.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|C:\\Users\\Expert\\source\\repos\\HotelManagement\\hotelmanagement\\page6.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\page6.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|C:\\Users\\Expert\\source\\repos\\HotelManagement\\hotelmanagement\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|C:\\Users\\Expert\\source\\repos\\HotelManagement\\hotelmanagement\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|C:\\Users\\Expert\\source\\repos\\HotelManagement\\hotelmanagement\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|C:\\Users\\Expert\\source\\repos\\HotelManagement\\hotelmanagement\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|c:\\users\\expert\\source\\repos\\hotelmanagement\\hotelmanagement\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|c:\\users\\expert\\source\\repos\\hotelmanagement\\hotelmanagement\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|C:\\Users\\Expert\\source\\repos\\HotelManagement\\hotelmanagement\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|c:\\users\\expert\\source\\repos\\hotelmanagement\\hotelmanagement\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|C:\\Users\\Expert\\source\\repos\\HotelManagement\\hotelmanagement\\page6.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\page6.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|C:\\Users\\Expert\\source\\repos\\HotelManagement\\hotelmanagement\\page4.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\page4.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|C:\\Users\\Expert\\source\\repos\\HotelManagement\\hotelmanagement\\styles\\loginstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D5CE575A-660A-4E13-B627-63D7F0A7D04B}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\styles\\loginstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\LoginPage.aspx.cs",
+              "ToolTip": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\LoginPage.aspx.cs",
+              "RelativeToolTip": "HotelManagement\\LoginPage.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:39:26.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page6.aspx",
+              "DocumentMoniker": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Page6.aspx",
+              "RelativeDocumentMoniker": "HotelManagement\\Page6.aspx",
+              "ToolTip": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Page6.aspx",
+              "RelativeToolTip": "HotelManagement\\Page6.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T04:39:05.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page7.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Page7.aspx.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Page7.aspx.cs",
+              "ToolTip": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Page7.aspx.cs",
+              "RelativeToolTip": "HotelManagement\\Page7.aspx.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:46:53.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page7.aspx",
+              "DocumentMoniker": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Page7.aspx",
+              "RelativeDocumentMoniker": "HotelManagement\\Page7.aspx",
+              "ToolTip": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Page7.aspx",
+              "RelativeToolTip": "HotelManagement\\Page7.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-27T14:36:40.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page8.aspx",
+              "DocumentMoniker": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Page8.aspx",
+              "RelativeDocumentMoniker": "HotelManagement\\Page8.aspx",
+              "ToolTip": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Page8.aspx",
+              "RelativeToolTip": "HotelManagement\\Page8.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-28T13:04:32.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page8.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Page8.aspx.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Page8.aspx.cs",
+              "ToolTip": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Page8.aspx.cs",
+              "RelativeToolTip": "HotelManagement\\Page8.aspx.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:58:06.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "HotelManagement\\LoginPage.aspx",
+              "ToolTip": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\LoginPage.aspx",
+              "RelativeToolTip": "HotelManagement\\LoginPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-26T17:49:04.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Registration.aspx.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Registration.aspx.cs",
+              "ToolTip": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Registration.aspx.cs",
+              "RelativeToolTip": "HotelManagement\\Registration.aspx.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:34:10.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Registration.aspx",
+              "DocumentMoniker": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Registration.aspx",
+              "RelativeDocumentMoniker": "HotelManagement\\Registration.aspx",
+              "ToolTip": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Registration.aspx",
+              "RelativeToolTip": "HotelManagement\\Registration.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-25T14:40:57.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Site1.Master.cs",
+              "ToolTip": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Site1.Master.cs",
+              "RelativeToolTip": "HotelManagement\\Site1.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T10:39:00.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Site1.Master",
+              "RelativeDocumentMoniker": "HotelManagement\\Site1.Master",
+              "ToolTip": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Site1.Master",
+              "RelativeToolTip": "HotelManagement\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-29T10:38:29.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomePage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\HomePage.aspx.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\HomePage.aspx.cs",
+              "ToolTip": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\HomePage.aspx.cs",
+              "RelativeToolTip": "HotelManagement\\HomePage.aspx.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:03:30.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\HomePage.aspx",
+              "RelativeDocumentMoniker": "HotelManagement\\HomePage.aspx",
+              "ToolTip": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\HomePage.aspx",
+              "RelativeToolTip": "HotelManagement\\HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-23T12:28:39.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Page6.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Page6.aspx.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Page6.aspx.cs",
+              "ToolTip": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Page6.aspx.cs",
+              "RelativeToolTip": "HotelManagement\\Page6.aspx.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T04:40:18.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Page4.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Page4.aspx.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Page4.aspx.cs",
+              "ToolTip": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Page4.aspx.cs",
+              "RelativeToolTip": "HotelManagement\\Page4.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:49:17.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginStyle.css",
+              "DocumentMoniker": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Styles\\LoginStyle.css",
+              "RelativeDocumentMoniker": "HotelManagement\\Styles\\LoginStyle.css",
+              "ToolTip": "C:\\Users\\Expert\\source\\repos\\HotelManagement\\HotelManagement\\Styles\\LoginStyle.css",
+              "RelativeToolTip": "HotelManagement\\Styles\\LoginStyle.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-24T06:11:12.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
