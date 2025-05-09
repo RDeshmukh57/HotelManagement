@@ -8,7 +8,7 @@
 
 -The hotel management system allows users to add or edit their details based on their interests.
 
--We have used **ASP.NET MVC** for the front-end design and **SQL Server** for the back-end database.
+-We have used **ASP.NET** for the front-end design and **SQL Server** for the back-end database.
 
 
 ## 🛠️ Tech Stack
